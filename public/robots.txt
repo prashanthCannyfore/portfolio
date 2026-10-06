@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /test-image.html
+
+Sitemap: https://iamsakthi.online/sitemap.xml
